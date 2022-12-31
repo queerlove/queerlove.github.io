@@ -1,7 +1,7 @@
 {% include navigation.html %} {% if page.profile %} {% include profile.html %} {% endif %}
 ---
 title: About
-permalink: about/
+permalink: queerlove.github.io/about/
 profile: true
 ---
 
